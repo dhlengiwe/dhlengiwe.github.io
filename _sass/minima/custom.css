@@ -1,0 +1,13 @@
+body, html {
+    background-color: #121212 !important;
+    color: #e0e0e0 !important;
+}
+.site-header, .site-footer {
+    background-color: #1a1a1a !important;
+}
+.site-title, .page-link {
+    color: #006a4e !important;
+}
+a {
+    color: #cfb53b !important;
+}
