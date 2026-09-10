@@ -1,6 +1,7 @@
 title: Hlengiwe Sinelile Dlamini
 description: PhD Student | Critical Minerals | Cybersecurity
-theme: minima
+theme: jekyll-theme-cayman
+
 
 # Navigation links across the top of your site
 header_pages:
