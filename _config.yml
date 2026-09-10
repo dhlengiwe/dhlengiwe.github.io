@@ -1,0 +1,10 @@
+title: Hlengiwe Sinelile Dlamini
+description: PhD Student | Critical Minerals | Cybersecurity
+theme: minima
+
+# Navigation links across the top of your site
+header_pages:
+  - background.md
+  - dissemination.md
+  - media.md
+  - ngo-initiative.md
