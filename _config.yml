@@ -9,3 +9,8 @@ header_pages:
   - dissemination.md
   - media.md
   - ngo-initiative.md
+
+  # --- FORCE DARK MODE S&T COLORS HERE ---
+sass:
+  style: :compressed
+  sass_dir: _sass
