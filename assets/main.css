@@ -1,0 +1,16 @@
+---
+---
+// 1. Define your custom variables (Choose Light, Dark, or Custom)
+$background-color: #121212;   // True dark background
+$text-color:       #e0e0e0;   // Bright off-white text
+$brand-color:      #006a4e;   // Missouri S&T Emerald Green accent 
+$link-color:       #cfb53b;   // Gold highlight color for links
+
+// 2. Import the Minima framework structure
+@import "minima";
+
+// 3. Simple layout patches to override native text-shading rules
+.site-title, .site-title:visited, .site-header, .site-footer {
+    background-color: $background-color !important;
+    color: $text-color !important;
+}
